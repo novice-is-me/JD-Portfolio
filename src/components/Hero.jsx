@@ -4,7 +4,7 @@ import { profile } from '../constant/image'
 
 const Hero = () => {
   return (
-    <Container className="p-5 p-md-0 border border-e-gray-50 flex flex-column gap-y-5 justify-evenly flex-md-row mb-6">
+    <Container className="p-5 p-md-0 flex flex-column gap-y-5 justify-evenly flex-md-row mb-6">
       <div className='flex flex-col justify-center order-2 order-md-1 items-center align-items-md-start'>
         <div className=' text-center text-md-start'>
           <p className=' font-Poppins text-[20px] md:text-[30px] font-medium'>Hello, It's Me</p>
