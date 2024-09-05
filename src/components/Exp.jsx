@@ -9,9 +9,9 @@ const Exp = ({img, title, date, text}) => {
         <div className='border-4 border-blue p-3 md:w-[60%]'>
             <div>
                 <p className=' font-Poppins font-semibold text-[20px]'>{title}</p>
-                <p className=' font-Poppins font-semibold text-[18px]'>{date}</p>
+                <p className=' font-Poppins font-semibold text-[18px] mt-2'>{date}</p>
             </div>
-            <ul className=' border'>
+            <ul className='mt-4'>
                 {text.map((item, i) => {
                     return (
                         <li key={i} className=' font-Poppins text-[16px]'>• {item}</li>

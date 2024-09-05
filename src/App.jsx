@@ -5,6 +5,7 @@ import NavComponent from "./components/NavComponent"
 import Home from "./pages/Home";
 import Education from "./pages/Education";
 import Experiences from "./pages/Experiences";
+import Skills from "./pages/Skills";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/education" element={<Education />} />
           <Route path="/experiences" element={<Experiences />} />
+          <Route path="/skills" element={<Skills/>}/>
         </Routes>
     </Router>
   )

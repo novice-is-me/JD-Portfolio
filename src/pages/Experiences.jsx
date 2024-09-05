@@ -5,7 +5,7 @@ import { Container } from 'react-bootstrap'
 
 const Experiences = () => {
   return (
-    <Container className='d-grid '>
+    <Container fluid className='d-grid '>
       <div className='row p-3'>
         {expData.map((data, i) => {
               return (

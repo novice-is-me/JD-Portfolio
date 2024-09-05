@@ -48,3 +48,65 @@ export const expData = [
         ]
     }
 ]
+
+export const skillsData = [
+    {
+        title: "Focused Skills",
+        text: [
+            {
+                type: '• Technical Skills:',
+                content: 'Programming Languages: Python, Java, C++, HTML, CSS; Software: Microsoft Office Suite (Word, Excel, PowerPoint), Apache NetBeans, AutoCAD, Figma, Canva, Airtable; Cloud Platforms: Saturn Cloud'
+            },
+            {
+                type: '• Analytical Skills:',
+                content: 'Data Analysis: Excel; Problem-Solving: Root Cause Analysis'
+            },
+            {
+                type: '• Customer Service Skills:',
+                content: [
+                    'Social Media Management: Responding to customer inquiries/comments on Facebook Ads.',
+                    'Chat Management: Managed and maintained company communications via Facebook Messenger, ensuring timely and accurate responses to customer questions.',
+                    'Order Confirmation: Conducted calls to buyers to confirm and recognize orders, ensuring all details are accurate before processing.'
+                ]
+            },
+            {
+                type: '• Communication Skills:',
+                content: [
+                    'Written: Technical Writing, Report Writing',
+                    'Verbal: Public Speaking, Presentation Skills',
+                    'Languages: Filipino (Native), English (Fluent)'
+                ]
+            }
+        ]
+    }, {
+        title: "General Skills ",
+        text: [
+            {
+                type: '• Academic Excellence:',
+                content: [
+                    'Demonstrated ability to excel in challenging coursework.'
+                ] 
+            },{
+                type: '• Communication Skills: ',
+                content: [
+                    'Exceptional written and verbal communication skills.'
+                ]
+            },{
+                type: '• Problem-Solving: ',
+                content: [
+                    'Strong analytical and troubleshooting skills, with experience in  debugging and optimizing code.  '
+                ]
+            },{
+                type: '• Teamwork and Collaboration: ',
+                content: [
+                    'Experience working in cross-functional teams, with  strong communication and teamwork skills.  '
+                ]
+            },{
+                type: '• Adaptability and Resilience: ',
+                content: [
+                    'Capacity to adapt to new environments and challenges.'
+                ]
+            }
+        ]
+    }
+];
