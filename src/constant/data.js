@@ -6,7 +6,7 @@ export const educData = [
     }, {
         content: "I have developed a strong foundation in computer engineering, with expertise in Data Structures and Algorithms, Operating Systems, and IoT architecture. My skills extend to Human-Computer Interaction, where I focus on UI/UX design and usability testing. I also have a basic understanding of Artificial Intelligence and am proficient in both front-end and back-end web development."
     }, {
-        content: "I actively participated in various school programs and organizations, where I developed leadership, time management, and organizational skills. These experiences played a significant role in shaping my ability to adapt and excel in challenging environments."
+        content: "Lipa City Senior High School \n Graduated With Honor and Conduct Award 2018-2020"
     }, {
         content: "I actively participated in various school programs and organizations, where I developed leadership, time management, and organizational skills. These experiences played a significant role in shaping my ability to adapt and excel in challenging environments."
     }

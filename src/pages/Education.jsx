@@ -1,7 +1,7 @@
 import React from 'react'
 import Educ from '../components/Educ'
 import { Container, Row, Col } from 'react-bootstrap'
-import { educData } from '../constant/data'
+import { actData, educData } from '../constant/data'
 import { bsu, matatag } from '../constant/image'
 import Activities from '../components/Activities'
 
@@ -24,7 +24,7 @@ const Education = () => {
             <p className=' font-Inter text-[18px] md:text-[25px] font-bold'>2017 - 2018</p>
           </div>
           <div className=' mt-4'>
-            {educData.map((data, index) => {
+            {actData.map((data, index) => {
               return (
                 <Activities key={index} content={data.content}/>
               )
