@@ -10,11 +10,11 @@ const Education = () => {
   return (
     <Container fluid className='p-5 d-grid gap-20 mt-5 mt-md-2'>
       <div className='row gap-y-4'>
-          <Educ content={educData[0].content} img={bsu} value={0}/>
+          <Educ content={educData[0].content} school={educData[0].school} img={bsu} value={0}/>
           <Educ content={educData[1].content} value={1}/>
       </div>
       <div className=' row gap-y-4'>
-          <Educ content={educData[2].content} img={matatag} value={0} spec={1}/>
+          <Educ content={educData[2].content} school={educData[2].school} img={matatag} value={0} spec={1}/>
           <Educ content={educData[3].content} value={1} />
       </div>
       <div>
