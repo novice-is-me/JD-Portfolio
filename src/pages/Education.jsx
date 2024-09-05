@@ -6,7 +6,7 @@ import { bsu, matatag } from '../constant/image'
 import Activities from '../components/Activities'
 
 const Education = () => {
-  console.log(educData)
+ 
   return (
     <Container fluid className='p-5 d-grid gap-20 mt-5 mt-md-2'>
       <div className='row gap-y-4'>
