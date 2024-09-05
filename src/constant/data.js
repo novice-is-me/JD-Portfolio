@@ -43,7 +43,8 @@ export const expData = [
         text: [
             'Engaged with potential customers through email and Facebook Messenger to address inquiries and provide information via chat with potential customers via email and Facebook messenger.',
             'Contacted customers by phone to confirm orders and ensure accuracy.', 
-            'Promoted the shop by posting advertisements on social media, contributing to increased customer engagement'
+            'Promoted the shop by posting advertisements on social media, contributing to increased customer engagement',
+            'Coordinate and schedule appointments for my clients with both their buyers and suppliers'
         ]
     }
 ]

@@ -2,11 +2,11 @@ import React from 'react'
 
 const Exp = ({img, title, date, text}) => {
   return (
-    <div className='flex items-center mt-5'>
-        <div>
+    <div className='flex items-center mt-5 col-lg-6 justify-center'>
+        <div className=' hidden md:block'>
             <img src={img} alt="" />
         </div>
-        <div className='border-4 border-blue p-3'>
+        <div className='border-4 border-blue p-3 md:w-[60%]'>
             <div>
                 <p className=' font-Poppins font-semibold text-[20px]'>{title}</p>
                 <p className=' font-Poppins font-semibold text-[18px]'>{date}</p>
