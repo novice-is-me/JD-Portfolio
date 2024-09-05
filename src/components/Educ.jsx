@@ -10,7 +10,7 @@ const Educ = ({content, img, value, spec, school}) => {
                 <img src={img} alt="" className=' img-fluid w-75' />
             </div>
             <div className={`${value === 1 ? 'mt-0 text-white p-md-3' : 'mt-20'} ${spec === 1 ? ' !mt-[100px]' : ''} p-2`}>
-              <p className='font-Poppins text-center mb-2'>{school}</p>
+              <p className='font-Poppins text-center mb-2 font-bold'>{school}</p>
               <p className='font-Poppins text-center' style={{whiteSpace: 'pre-line'}}>
                   {content}
               </p>
