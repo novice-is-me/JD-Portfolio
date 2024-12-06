@@ -10,7 +10,7 @@ const About = () => {
         </div>
         <div className=' flex flex-1 flex-col justify-center text-center text-lg-start'>
             <h3 className=' text-white font-Inter md:text-[30px] font-bold mb-4 text-[35px]'>About Me</h3>
-            <p className=' text-white md:text-[20px]'>I am a skilled Virtual Assistant with a strong background in technology, customer service, and communication. My expertise includes programming, proficiency with tools like Microsoft Office Suite, Figma, and Canva, and experience with cloud platforms such as Saturn Cloud. I excel in managing social media, handling customer communications, and ensuring order accuracy. With strong analytical and communication skills, I am proficient in both written and verbal tasks and fluent in Filipino and English. My attention to detail and adaptability make me a reliable and efficient Virtual Assistant.</p>
+            <p className=' text-white md:text-[20px]'>I am a motivated and adaptable professional with a strong foundation in technology, programming, and customer engagement. My skill set includes proficiency in programming languages such as Python, Java, C#, C++, HTML, CSS, and PHP, alongside experience with frameworks and tools like .NET, AutoCAD, Apache NetBeans, Figma, Canva, and Microsoft Office Suite. Fluent in both Filipino and English, I excel in written and verbal communication, problem-solving, and adapting to new challenges. My combination of technical expertise and strong interpersonal skills makes me a versatile and reliable team member dedicated to achieving organizational success.</p>
         </div>
     </Container>
   )

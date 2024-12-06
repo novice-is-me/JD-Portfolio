@@ -57,7 +57,7 @@ export const skillsData = [
         text: [
             {
                 type: '• Technical Skills:',
-                content: 'Programming Languages: Python, Java, C++, HTML, CSS; Software: Microsoft Office Suite (Word, Excel, PowerPoint), Apache NetBeans, AutoCAD, Figma, Canva, Airtable; Cloud Platforms: Saturn Cloud'
+                content: 'Programming Languages: Python, Java, C++, C#, PHP, HTML, CSS; Software: Microsoft Office Suite (Word, Excel, PowerPoint), Apache NetBeans, AutoCAD, Figma, Canva, Airtable; Cloud Platforms: Saturn Cloud'
             },
             {
                 type: '• Analytical Skills:',
